@@ -152,5 +152,3 @@ window.onload = () => {
     const cube = new ColorCube();
     cube.init();
 };
-//test
-//2
